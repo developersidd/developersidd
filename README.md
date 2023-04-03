@@ -14,6 +14,10 @@
 
 ✔ 📄 Know about my experiences [https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view](https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view)
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=developersidd&icon=6&color=1)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/absiddik#8839) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/developersiddik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ab-siddik-95902a225) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@developersiddik) 
@@ -31,7 +35,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=developersidd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=developersidd&icon=6&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
