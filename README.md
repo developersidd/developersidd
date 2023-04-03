@@ -16,7 +16,7 @@
 
 ✔ 📫 How to reach me **siddik.prgmr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view](https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view)
+✔ 📄 Know about my experiences [https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view](https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
