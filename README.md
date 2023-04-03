@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm AB Siddik</h1>
 <h3 align="center">Mernstack Developer</h3>
 
@@ -5,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developersidd" alt="developersidd" /></a> </p>
 
-- 🔭 I’m currently working on **Redux**
+✔ 🔭 I’m currently working on **Redux**
 
-- 🌱 I’m currently learning **Redux, Next js, Typescript**
+✔ 🌱 I’m currently learning **Redux, Next js, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://ab-siddik.netlify.app/](https://ab-siddik.netlify.app/)
+✔ 👨‍💻 All of my projects are available at [https://ab-siddik.netlify.app/](https://ab-siddik.netlify.app/)
 
-- 💬 Ask me about **javascript, react , express js, mongoDb**
+✔ 💬 Ask me about **javascript, react , express js, mongoDb**
 
-- 📫 How to reach me **siddik.prgmr@gmail.com**
+✔ 📫 How to reach me **siddik.prgmr@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view](https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view)
 
