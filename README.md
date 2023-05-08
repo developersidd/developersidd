@@ -2,7 +2,7 @@
 <h3 align="center">Mernstack Developer</h3>
 
 
-✔ 🔭 I’m currently working on **Redux**
+✔ 🔭 I’m currently working on **Redux and Typescript**
 
 ✔ 🌱 I’m currently learning **Redux, Next js, Typescript**
 
