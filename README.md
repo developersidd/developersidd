@@ -6,7 +6,7 @@
 
 ✔ 🌱 I’m currently learning **Next js, Typescript**
 
-✔ 👨‍💻 All of my projects are available at <a href="https://ab-siddik.netlify.app/" target="_blank"> My Portfolio </a>
+✔ 👨‍💻 All of my projects are available at <a href="https://ab-siddik.netlify.app/" target="__blank"> My Portfolio </a>
 
 ✔ 💬 Ask me about **javascript, react js, express js, mongoDb**
 
