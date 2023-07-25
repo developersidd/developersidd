@@ -2,9 +2,9 @@
 <h3 align="center">Mernstack Developer</h3>
 
 
-✔ 🔭 I’m currently working on **Redux and Typescript**
+✔ 🔭 I’m currently working on **Next js and Typescript**
 
-✔ 🌱 I’m currently learning **Redux, Next js, Typescript**
+✔ 🌱 I’m currently learning **Next js, Typescript**
 
 ✔ 👨‍💻 All of my projects are available at [https://ab-siddik.netlify.app/](https://ab-siddik.netlify.app/)
 
@@ -12,7 +12,7 @@
 
 ✔ 📫 How to reach me **siddik.prgmr@gmail.com**
 
-✔ 📄 Know about my experiences [https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view](https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view)
+✔ 📄 Know about my experiences [https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view]([https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view](https://drive.google.com/file/d/1WlI-hTerx7XIFwr0mv7sIojfviVOSFXl/view))
 
 ---
 
