@@ -12,7 +12,7 @@
 
 ✔ 📫 How to reach me **siddik.prgmr@gmail.com**
 
-✔ 📄 Know about my experiences [https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view]{:target="_blank"}(https://drive.google.com/file/d/1WlI-hTerx7XIFwr0mv7sIojfviVOSFXl/view)]
+✔ 📄 Know about my experiences [https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view]{:target="_blank}
 ---
 
 [![](https://visitcount.itsvg.in/api?id=developersidd&icon=6&color=1)](https://visitcount.itsvg.in)
