@@ -6,13 +6,13 @@
 
 ✔ 🌱 I’m currently learning **Next js, Typescript**
 
-✔ 👨‍💻 All of my projects are available at [https://ab-siddik.netlify.app/](https://ab-siddik.netlify.app/){:target="_blank"}
+✔ 👨‍💻 All of my projects are available at [https://ab-siddik.netlify.app/]{:target="_blank"} (https://ab-siddik.netlify.app/)
 
 ✔ 💬 Ask me about **javascript, react js, express js, mongoDb**
 
 ✔ 📫 How to reach me **siddik.prgmr@gmail.com**
 
-✔ 📄 Know about my experiences [https://drive.google.com/file/d/18CE5a25cmYVKYFvw-SLTa3ZAH-S8w-at/view]{:target="_blank}
+✔ 📄 Know about my experiences [https://drive.google.com/file/d/1WlI-hTerx7XIFwr0mv7sIojfviVOSFXl/view]  
 ---
 
 [![](https://visitcount.itsvg.in/api?id=developersidd&icon=6&color=1)](https://visitcount.itsvg.in)
