@@ -2,9 +2,9 @@
 <h3 align="center">Mernstack Developer</h3>
 
 
-✔ 🔭 I’m currently working on **Next js and Typescript**
+✔ 🔭 I’m currently working on **Next js and Backend Site**
 
-✔ 🌱 I’m currently learning **Next js, Typescript**
+✔ 🌱 I’m currently learning **Next js, Node, Express & MongoDb**
 
 ✔ 👨‍💻 All of my projects are available at <a href="https://ab-siddik.netlify.app/" target="__blank"> My Portfolio </a>
 
