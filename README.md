@@ -4,7 +4,7 @@
 
 ✔ 🔭 I’m currently working on **Next js and Backend Site**
 
-✔ 🌱 I’m currently learning **Next js, Node, Express & MongoDb**
+✔ 🌱 I’m currently learning **Next js**
 
 ✔ 👨‍💻 All of my projects are available at <a href="https://ab-siddik.netlify.app/" target="__blank"> My Portfolio </a>
 
