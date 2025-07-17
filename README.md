@@ -2,9 +2,9 @@
 <h3 align="center">Mernstack Developer</h3>
 
 
-✔ 🔭 I’m currently working on **Next js & Backend Site**
+✔ 🔭 I’m currently working on **Django & React Native**
 
-✔ 🌱 I’m currently learning **Python & DSA**
+✔ 🌱 I’m currently learning **Django & React Native**
 
 ✔ 👨‍💻 All of my projects are available at <a href="https://ab-siddik.netlify.app/" target="__blank"> My Portfolio </a>
 
